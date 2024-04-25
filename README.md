@@ -1,8 +1,10 @@
-## Hey there 👋, I'm [Pavan!](https://github.com/iampavangandhi/)
+## Hey there 👋, I'm [Joshua De Chavez!](https://github.com/Zalinto/)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]
+(https://www.linkedin.com/in/jndechave/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)]
+(https://www.instagram.com/jndechavez/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
@@ -89,3 +91,11 @@ Like My Work?
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
+</a>
